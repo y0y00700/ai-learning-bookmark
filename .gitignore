@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# backend (Gradle)
+backend/.gradle/
+backend/build/
+backend/bin/
+backend/out/
